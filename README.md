@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vindas ao meu perfil❤️
 
-<!--
-**isaaaraujo/isaaaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Isabelly Araujo 
 
-Here are some ideas to get you started:
+- Estou estudando na [alura](https://www.alura.com.br)
+- Estou estudando também outras matérias 
+- Estou fazendo o trabalho de pensamento computacional 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###você entrar em contato comigo🗣️🗨️
+
+Isabelly.araujo.santos@escola.pr.gov.b
+
+@Isabelly.ggz 
+
+
+![1728517748510808286951717539103](https://github.com/user-attachments/assets/d933c8f4-8159-4a2b-a031-bf2960639521)
