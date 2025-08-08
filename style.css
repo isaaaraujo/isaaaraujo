@@ -1,0 +1,96 @@
+/* Estilos globais para o corpo da página */
+body {
+    font-family: Arial, sans-serif; /* Define a fonte principal */
+    line-height: 1.6; /* Aumenta o espaçamento entre linhas para melhor leitura */
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Cor de fundo suave */
+    color: #333; /* Cor do texto principal */
+}
+
+/* Estilos para o cabeçalho */
+header {
+    background: #333; /* Cor de fundo escura */
+    color: #fff; /* Cor do texto branca */
+    padding: 2rem 0; /* Espaçamento interno */
+    text-align: center; /* Centraliza o texto */
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem; /* Tamanho da fonte para o nome */
+}
+
+header p {
+    font-style: italic;
+    font-size: 1.2rem;
+}
+
+/* Estilos para as seções principais */
+main {
+    max-width: 960px; /* Limita a largura do conteúdo para não ficar muito esticado em telas grandes */
+    margin: 2rem auto; /* Centraliza o conteúdo e adiciona espaço em cima/baixo */
+    padding: 0 20px; /* Espaçamento nas laterais */
+}
+
+section {
+    background: #fff; /* Fundo branco para as seções */
+    padding: 2rem;
+    margin-bottom: 2rem; /* Espaço entre as seções */
+    border-radius: 8px; /* Cantos arredondados */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra suave para dar profundidade */
+}
+
+section h2 {
+    color: #5a5a5a; /* Cor para os títulos das seções */
+    border-bottom: 2px solid #ddd; /* Linha sutil abaixo do título */
+    padding-bottom: 0.5rem;
+}
+
+/* Estilos para a lista de projetos */
+#projetos article {
+    margin-bottom: 1.5rem; /* Espaço entre os projetos */
+}
+
+#projetos h3 {
+    color: #007bff; /* Cor azul para os títulos dos projetos */
+}
+
+/* Estilos para os links */
+a {
+    color: #007bff; /* Cor padrão dos links */
+    text-decoration: none; /* Remove o sublinhado padrão dos links */
+}
+
+a:hover {
+    text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
+}
+
+/* Estilos para a lista de contato */
+#contato ul {
+    list-style: none; /* Remove os marcadores de lista */
+    padding: 0;
+}
+
+#contato li {
+    margin-bottom: 0.5rem;
+}
+
+/* Estilos para o rodapé */
+footer {
+    text-align: center;
+    padding: 1rem 0;
+    background: #333;
+    color: #fff;
+}
+
+/* Estilos para a responsividade em telas menores */
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 2rem;
+    }
+
+    section {
+        padding: 1rem;
+    }
+}
